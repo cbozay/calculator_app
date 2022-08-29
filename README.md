@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+<h1>Calculator_React_App
+<h3>It has been made by using "useReducer". Props and useState functions have been used in place.
+
+![](calc.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
